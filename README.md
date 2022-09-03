@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on ethereum contracts
 - 📫 How to reach me ...
+mhorobet7@gmail.com
 
 <!---
 VenomOPT/VenomOPT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
